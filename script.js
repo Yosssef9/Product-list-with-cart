@@ -149,7 +149,7 @@ function renderCartitems() {
     <div class="cart-items-container">
         </div>
 
-        <div class="order-total-contanier">
+        <div class="order-total-container">
           <h2>Order Total</h2>
           <div class="order-total-price">$${returnCartTotalPrice(
             cartItems
